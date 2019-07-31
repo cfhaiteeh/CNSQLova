@@ -10,7 +10,8 @@ import os
 
 # Jan1 2019. Wonseok. Path info has added to original wikisql/evaluation.py
 # Only need to add "query" (essentially "sql" in original data) and "table_id" while constructing file.
-#wanghuajie
+#wanghuajiess
+#sss
 if __name__ == '__main__':
 
     # Hyper parameters
