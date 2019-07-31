@@ -1,5 +1,3 @@
-# CNSQLova
-首届中文NL2SQL挑战赛 0.8score
 SQLova+Baseline
 ======
 这个代码主要实现了SQLova和Baseline的集成功能，在预测cond的val部分时，用贪心算法根据数据库中的内容和问题的关联度预测val。
